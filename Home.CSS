@@ -1,0 +1,22 @@
+.header {
+    color:Red;
+    background-color: Grey;
+    padding:30px;
+    text-align: center;
+}
+.header-img{
+        color:white;
+        text-align:center;
+        padding:30px;
+        background-image: url(images6.jpg);
+
+
+}        
+    
+footer{
+    margin-bottom: 0;
+    Padding:10px; 
+    background-color: red;
+    font-size: 20px; 
+    text-align:center; 
+}
